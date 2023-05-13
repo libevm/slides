@@ -1,0 +1,16 @@
+{
+  "name": "slides",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.40.16",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*",
+    "qrcode.vue": "^3.4.0",
+    "slidev-theme-eloc": "^1.0.1"
+  }
+}
