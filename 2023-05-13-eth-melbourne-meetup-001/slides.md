@@ -603,6 +603,15 @@ function transfer(address to, uint256 amount) public {
 
 ---
 
+So much more in MEV
+
+- Sandwiching
+- Backrunning
+- Long/short tail arbitrages
+- https://eigenphi.io/
+
+---
+
 > Thank You! Questions?
 
 Speaker: @libevm
