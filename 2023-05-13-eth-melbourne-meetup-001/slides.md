@@ -612,9 +612,11 @@ So much more in MEV
 
 ---
 
-> Thank You! Questions?
+## Thank You! Questions?
 
-Speaker: @libevm
+<QRCode :value="'https://discord.gg/7rjEfhtsxe'"/>
+
+[ethmelbourne.co](https://ethmelbourne.co)
 
 `Ethereum Melbourne looking for more sponsors!`
 
